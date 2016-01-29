@@ -4,7 +4,7 @@ OpenStreetMap Japanコミュニティのなかで見つけた「これ、やろ�
 # 使い方
 OpenStreetMap (以下OSM) を日本語で使っていて、気がついたことをIssueの中に並べてゆくだけのリポジトリです。
 
-例えばこんな場合に、Issueのページから create an issue を行ってみてください。
+例えばこんな場合に、[Issue](https://github.com/osmfj/osm_japan_issues/issues)のページから [create an issue](https://github.com/osmfj/osm_japan_issues/issues/new) を行ってみてください。
 
 * ○○地域の森林が消えてしまっている
 * OSM wikiで日本語に翻訳されていないページがある
